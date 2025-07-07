@@ -1,0 +1,15 @@
+# requirements.txt
+
+# Core data handling and numerical operations
+pandas
+numpy
+
+# Machine learning and model evaluation
+scikit-learn
+
+# Deep learning framework for building neural networks
+# Note: tensorflow includes tensorflow.keras
+tensorflow
+
+# Data visualization
+matplotlib
