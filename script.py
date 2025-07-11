@@ -1,3 +1,6 @@
+## code made with the help of claude
+
+
 import yfinance as yf
 import numpy as np
 import pandas as pd
